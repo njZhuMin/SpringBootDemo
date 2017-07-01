@@ -1,0 +1,6 @@
+server:
+    port: 8081
+
+person:
+  name: 隔壁老王
+  age: 25
